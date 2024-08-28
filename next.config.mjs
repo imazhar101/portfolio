@@ -2,8 +2,7 @@
 const nextConfig = {
   basePath: "/portfolio",
   output: "export",
-  distDir: "pages",
-  // reactStrictMode: true,
+  reactStrictMode: true,
 };
 
 export default nextConfig;
